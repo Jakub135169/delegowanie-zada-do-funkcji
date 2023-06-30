@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\bin\Debug\delegowanie zadań do funkcji nr 2.exe.config
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\bin\Debug\delegowanie zadań do funkcji nr 2.exe
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\bin\Debug\delegowanie zadań do funkcji nr 2.pdb
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\obj\Debug\delegowanie zadań do funkcji nr 2.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\obj\Debug\delegowanie zadań do funkcji nr 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\obj\Debug\delegowanie zadań do funkcji nr 2.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\obj\Debug\delegowanie zadań do funkcji nr 2.exe
+C:\Users\jradz\OneDrive\Pulpit\delegowanie zadań do funkcji\delegowanie zadań do funkcji nr 2\obj\Debug\delegowanie zadań do funkcji nr 2.pdb
